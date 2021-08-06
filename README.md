@@ -5,6 +5,13 @@ The only Maharaj(Cook) you need to Classify your Indian Dishes. <a href='https:/
 ## What it does
 It is an Image Classifier that can classifiy images into 12 different Indian Dishes, which includes Chole Bhature, Pav Bhaji, Paneer Sabzi, Momos, Biryani, Butter Naan, Dhokla, Samosa, Chai, Jalebi, Gulab Jamun, Rasgulla.
 
+## More Info
+
+- Built using PyTorch
+- Used EfficientNet-B2 for Transfer Learning
+- Manually Scraped 4739 Images of 12 different classes
+- Achieved an accuracy of 93.4%
+
 ## Challenges I ran into
 
 - Couldn't find a Indian Dishes Dataset, So had to create the dataset manually
