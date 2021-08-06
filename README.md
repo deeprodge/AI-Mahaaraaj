@@ -1,5 +1,5 @@
 # AI-Maharaj
-The only Maharaj(Cook) you need to Classify your Indian Dishes. <a href='https://ai-maharaj.herokuapp.com/'> Try It! </a>
+The only Maharaj(Cook) you need to Classify your Indian Dishes. <a href='https://ai-maharaj.herokuapp.com/'> Try It! </a> <br>
 <a href='https://github.com/deeprodge/Indian-Dishes-Classifier'> Dataset and notebook here. </a>
 
 ## What it does
