@@ -1,5 +1,6 @@
 # AI-Maharaj
 The only Maharaj(Cook) you need to Classify your Indian Dishes. <a href='https://ai-maharaj.herokuapp.com/'> Try It! </a>
+<a href='https://github.com/deeprodge/Indian-Dishes-Classifier'> Dataset and notebook here. </a>
 
 ## What it does
 It is an Image Classifier that can classifiy images into 12 different Indian Dishes, which includes Chole Bhature, Pav Bhaji, Paneer Sabzi, Momos, Biryani, Butter Naan, Dhokla, Samosa, Chai, Jalebi, Gulab Jamun, Rasgulla.
