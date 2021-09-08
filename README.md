@@ -11,6 +11,8 @@ It is an Image Classifier that can classifiy images into 12 different Indian Dis
 - Used EfficientNet-B2 for Transfer Learning
 - Manually Scraped 4739 Images of 12 different classes
 - Achieved an accuracy of 93.4%
+- Used LR scheduler
+- Used Data Augmention to synthesise new data
 
 ## Challenges I ran into
 
